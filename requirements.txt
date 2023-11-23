@@ -1,0 +1,4 @@
+tabula-py
+pandas
+flask
+jpype1

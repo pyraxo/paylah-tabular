@@ -1,0 +1,7 @@
+version: "3"
+services:
+  app:
+    container_name: pdf-server
+    build:
+      context: .
+      dockerfile: Dockerfile
